@@ -1,7 +1,7 @@
 # learn_for_code
 begineer coding project for me
 
-the project will continuously upload the solution of the tasks of Martyr2's
+the project will tried to solve the tasks by Martyr2's
 url: http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 
 Aim
